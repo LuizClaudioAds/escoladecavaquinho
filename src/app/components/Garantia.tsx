@@ -37,7 +37,7 @@ const Garantia: React.FC<GarantiaProps> = ({
           por si mesmo. Se não ficar satisfeito, devolvemos 100% do seu dinheiro
           dentro do prazo de 15 dias. Sem perguntas, sem complicações.
         </p>
-        <a href="#oferta" className="primaryButton w-full sm:w-auto">
+        <a href="#oferta" className="primaryButton">
           Quero começar sem risco!
         </a>
         <p className="text-sm text-gray-500 mt-4">

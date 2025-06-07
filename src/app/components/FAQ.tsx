@@ -112,7 +112,7 @@ const FAQ: React.FC = () => {
 
       <a
         href="#oferta"
-        className="primaryButton mt-10 flex items-center gap-2 text-base sm:text-lg px-6 py-3 sm:px-8 sm:py-4"
+        className="primaryButton flex items-center gap-2"
       >
         Inscreva-se agora mesmo!
         <svg

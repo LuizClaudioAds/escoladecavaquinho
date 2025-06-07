@@ -41,7 +41,7 @@ const GatilhoPerda: React.FC = () => {
         </ul>
         <a
           href="#oferta"
-          className="mt-12 bg-primary text-white font-semibold px-8 sm:px-12 py-3 sm:py-4 rounded-full shadow-lg hover:bg-support transition-colors duration-300 self-center"
+          className="primaryButton"
         >
           Não quero perder essa chance!
         </a>
