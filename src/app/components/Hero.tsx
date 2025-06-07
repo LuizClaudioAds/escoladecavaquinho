@@ -56,9 +56,12 @@ export default function Hero() {
             ))}
           </ul>
           {/* Botão CTA */}
-          <a href="#oferta" className="primaryButton">
+            <a
+            href="#oferta"
+            className="primaryButton bg-gradient-to-r from-primary to-blue-500 text-white px-6 py-3 rounded-lg shadow-lg hover:opacity-90 transition-opacity"
+            >
             Quero aprender cavaquinho!
-          </a>
+            </a>
         </div>
       </section>
     </div>

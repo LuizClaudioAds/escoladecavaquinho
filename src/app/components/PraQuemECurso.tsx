@@ -34,7 +34,7 @@ const cards = [
 ];
 
 const PraQuemECurso: React.FC = () => (
-  <section className="sectionBox">
+  <section className="sectionBox bg-neutral-light">
     <h2 className="sectionHeading">
       Pra quem é o curso?
     </h2>

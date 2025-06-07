@@ -111,7 +111,7 @@ const OfertaEBonus: React.FC = () => {
             </p>
 
             <button
-              className="primaryButton bg-accent hover:bg-accent-light text-white mb-6"
+              className="primaryButton mb-6 text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:from-green-500 hover:via-green-600 hover:to-green-700 shadow-lg transform hover:scale-105 transition-transform duration-300"
               onClick={() => window.open(linkBonus, "_blank")}
             >
               🪕 Quero começar agora por R${valorBonus}
